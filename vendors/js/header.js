@@ -1,7 +1,7 @@
 $(function(){
 
         $("#typed").typed({
-            strings: ["Hi there, I'm <strong>Sox</strong>.", "I <em>love</em> to learn.", "Recently, I learned to code.", "KEYWORDS: Ruby, Rails, Javascript, TDD!"],
+            strings: ["Hi there, I'm <strong>Sox</strong>.", "I <em>love</em> to learn.", "Recently, I learned to code.", "This is my portfolio. If you like it, tweet me @soxyface and we can chat edTech, Health and Roller Derby."],
             typeSpeed: 30,
             backDelay: 500,
             loop: false,
