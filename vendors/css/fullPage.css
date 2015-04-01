@@ -2,6 +2,18 @@ body{
     color: #333;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   }
+   
+  a {
+   background: transparent;
+   color: black;
+   width: 40px;
+   height: 40px;
+   border-radius: 20px;
+   font-size: 25px;
+   text-align: center;
+   margin-right: 10px;
+   padding-top: 15%;
+  }
 
 
   /* Style for our header texts
@@ -257,10 +269,6 @@ body{
     top: 487px;
   }
 
-
-
-
-
   /* Section 3
   * --------------------------------------- */
   #section3 .imgsContainer{
@@ -276,8 +284,6 @@ body{
     text-align: center;
     margin: 10% 0 0 0;
   }
-
-
 
   /* Overwriting fullPage.js tooltip color
   * --------------------------------------- */
