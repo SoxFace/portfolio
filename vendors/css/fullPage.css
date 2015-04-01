@@ -113,32 +113,32 @@ body{
       height: 464px;
     }
   }
-  #iphone2{
+  #iphone-ga{
     z-index: 10;
   }
-  #iphone2.active{
+  #iphone-ga.active{
     -webkit-transform: translate3d(-134px, 0px, 0px);
     -moz-transform: translate3d(-134px, 0px, 0px);
     -ms-transform:translate3d(-134px, 0px, 0px);
     transform: translate3d(-134px, 0px, 0px);
   }
 
-  #iphone3{
+  #iphone-ga-info{
     z-index: 12;
   }
-  #iphone3.active{
+  #iphone-ga-info.active{
     -webkit-transform: translate3d(213px, 0px, 0px);
     -moz-transform: translate3d(213px, 0px, 0px);
     -ms-transform:translate3d(213px, 0px, 0px);
     transform: translate3d(213px, 0px, 0px);
   }
 
-  #iphone4{
+  #iphone-eddeo{
     z-index: 11;
     left: 140px;
   }
 
-  #iphone4.active{
+  #iphone-eddeo.active{
     -webkit-transform: translate3d(548px, 0px, 0px);
     -moz-transform: translate3d(548px, 0px, 0px);
     -ms-transform:translate3d(548px, 0px, 0px);

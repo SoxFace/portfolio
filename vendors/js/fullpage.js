@@ -9,7 +9,7 @@ $(document).ready(function() {
 
     'afterLoad': function(anchorLink, index){
       if(index == 2){
-        $('#iphone3, #iphone2, #iphone4').addClass('active');
+        $('#iphone-ga-info, #iphone-ga, #iphone-eddeo').addClass('active');
       }
     },
 
