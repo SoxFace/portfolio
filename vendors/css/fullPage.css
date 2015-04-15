@@ -296,3 +296,18 @@ body{
   #fp-nav li .active span, .fp-slidesNav .active span{
     background: #AAA;
   }
+
+  #footer {
+    position: fixed;
+    bottom: 5px;
+    height: 80px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    z-index: 2;
+    text-align: right;
+    color: black;
+    margin-bottom: 10px;
+    margin-left: -10px;
+  }
+
